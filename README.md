@@ -2,8 +2,8 @@
 ## I'm virtuede 😁
 
 
-- 🔭 我的博客地址：https://virtuede.github.io/blog/
-- 🌱 我目前在做： https://github.com/virtueDe/photo-edit
+<!-- - 🔭 我的博客地址：https://virtuede.github.io/blog/
+- 🌱 我目前在做： https://github.com/virtueDe/photo-edit -->
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
